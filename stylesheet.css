@@ -1,0 +1,117 @@
+html
+{ 
+	height: 100%;
+}
+
+*
+{
+	margin: 0;
+	padding: 0;
+}
+
+body
+{ 
+	font: normal .78em arial, sans-serif;
+	background: #444;
+	color: #555;
+}
+
+.resume
+{
+	padding: 0 0 16px 0;
+	line-height: 1.7em;
+}
+
+img
+{ 
+	border: 0;
+}
+
+h1, h2, h3, h4, h5, h6 
+{ 
+	font: normal 175% 'century gothic', arial, sans-serif;
+	color: #111;
+	margin: 0 0 15px 0;
+	padding: 15px 0 5px 0;	
+	background: #F5F5F1;
+}
+
+h2
+{
+	font: normal 175% 'century gothic', arial, sans-serif;
+	color: #444;
+}
+
+a, a:hover
+{
+	outline: none;
+	color: #111;
+	text-decoration: underline;
+}
+
+a:hover
+{ 
+text-decoration: none;
+}
+
+.resume
+{
+	margin-left: auto; 
+	margin-right: auto;
+	text-align: left;
+	width: 600px;
+	float: left;
+	padding: 20px 0 15px 30px;
+}
+
+.workhistory, .education, .interests
+{
+	margin: 20px 0 20px 0; 
+	padding: 10px 20px 0 20px;
+	border: 1px solid #E5E5DB;
+	background: #F5F5F1;
+	margin-left: auto; 
+	margin-right: auto;
+	width: 910px;
+}
+
+ul
+{ 
+	margin: 2px 0 22px 17px;
+}
+
+ul li
+{ 
+	list-style-type: circle;
+	margin: 0 0 6px 0; 
+	padding: 0 0 4px 5px;
+}
+
+
+.contactinfo
+{	
+	width: 890px;
+	background: url(back.png) repeat-x;
+	font-size: 130%;
+	padding: 0;
+	color: #444;
+}
+
+
+
+ ul
+{ 
+	margin: 2px 0 22px 0px;
+}
+
+ul li
+{
+	list-style-type: none;
+	background: url(bullet.png) no-repeat;
+	margin: 0 0 6px 0; 
+	padding: 0 0 4px 25px;
+	line-height: 1.5em;
+}
+
+
+
