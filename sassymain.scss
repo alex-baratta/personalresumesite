@@ -1,0 +1,54 @@
+HTML{
+   height: 100%;
+   width: 100%;
+   background-color: dark grey;
+   
+   body{
+      position: absolute;   
+      height:90%;
+      width: 90%;
+      right:5%;
+      left:5%;
+      top:5%;
+      bottom:5%;
+      background-color: light grey;
+      
+      .resume{
+      
+      
+         .contactinfo{
+            background-color: red;
+           
+ 
+         }
+            .workhistory{
+               background-color:blue; 
+               
+                     .job{
+                        background-color: light blue;
+                        .ul{
+                            
+                            
+                            
+                            
+                        }      
+                     }               
+            }
+            
+            .education{
+               background-color: green; 
+            
+            }
+            
+            
+            .interests{
+               background-color: yellow; 
+            
+            
+            
+            }    
+                        
+      }
+    }
+
+}

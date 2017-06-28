@@ -1,0 +1,25 @@
+HTML {
+  height: 100%;
+  width: 100%;
+  background-color: dark grey; }
+  HTML body {
+    position: absolute;
+    height: 90%;
+    width: 90%;
+    right: 5%;
+    left: 5%;
+    top: 5%;
+    bottom: 5%;
+    background-color: light grey; }
+    HTML body .resume .contactinfo {
+      background-color: red; }
+    HTML body .resume .workhistory {
+      background-color: blue; }
+      HTML body .resume .workhistory .job {
+        background-color: light blue; }
+    HTML body .resume .education {
+      background-color: green; }
+    HTML body .resume .interests {
+      background-color: yellow; }
+
+/*# sourceMappingURL=sassymain.css.map */
